@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sport.forus.digital/sitemap.xml
