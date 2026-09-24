@@ -1,6 +1,8 @@
-# FORUS Sport
+# sport.coop
 
 Static public information website for https://sport.forus.digital/.
+
+Branding is sport.coop, with football.coop, cricket.coop, hockey.coop, rugby.coop and tennis.coop as the sport communities. sport.forus.digital is temporary hosting only; each community will get its own .coop domain. Preserve these brands when changing hosting or simplifying functionality. FORUS remains the supporting brand.
 
 Serve the `dist` directory with any static host. No package installation, build, application server, accounts, database, payments or runtime integrations are required.
 
